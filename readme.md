@@ -1,3 +1,5 @@
+#Stove Class#
+
 Application based on the Object Oriented Programming (OOP) paradigm, develop all the structure of a Stove class.
 
 
